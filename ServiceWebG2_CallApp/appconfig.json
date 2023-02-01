@@ -1,0 +1,8 @@
+{
+  "Logger": {
+    //"LogFilePath": ".\\logs",
+    "LogFilePath": "E:\\Utilisateurs\\CAC\\Logs",
+    "LogActivation": true,
+    "DetailedLog": true
+  }
+}
